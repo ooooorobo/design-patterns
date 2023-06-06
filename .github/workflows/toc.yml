@@ -2,7 +2,7 @@ name: table of contents maker
 on:
   push:
     branches:
-      - main
+      - add-meta
 jobs:
   make:
     runs-on: ubuntu-latest
@@ -11,6 +11,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
         with:
+          fetch-depth: 0
           token: ${{ github.token }}
 
       - name: install node
@@ -24,9 +25,9 @@ jobs:
 
       - name: Commit and push if changed
         run: |-
-          git diff
+          git diff README.md
           git config --global user.email "bot@github.actions"
           git config --global user.name "toc-maker"
-          git add -u
+          git add README.md
           git commit -m "Update readme TOC" || exit 0
           git push
