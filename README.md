@@ -67,17 +67,30 @@
 
 ### behavioral
 
+- [chain-of-responsibility](./behavioral/chain-of-responsibility/chain-of-responsibility.md)
 - [command](./behavioral/command/command.md)
 - [iterator](./behavioral/iterator/iterator.md)
 - [mediator](./behavioral/mediator/mediator.md)
+- [observer-yj](./behavioral/observer/observer-yj.md)
+- [observer](./behavioral/observer/observer.md)
 - [state](./behavioral/state/state.md)
-- [test](./behavioral/test/test.md)
+- [strategy](./behavioral/strategy/strategy.md)
+- [template-method](./behavioral/template-method/template-method.md)
+- [visitor](./behavioral/visitor/visitor.md)
 
 ### creational
 
 - [abstract-factory](./creational/abstract-factory/abstract-factory.md)
+- [builder](./creational/builder/builder.md)
 - [factory-method](./creational/factory-method/factory-method.md)
+- [prototype](./creational/prototype/prototype.md)
+- [singleton](./creational/singleton/singleton.md)
 
 ### structural
 
+- [adapter](./structural/adapter/adapter.md)
+- [bridge](./structural/bridge/bridge.md)
 - [composite](./structural/composite/composite.md)
+- [decorator](./structural/decorator/decorator.md)
+- [facade](./structural/facade/facade.md)
+- [proxy](./structural/proxy/proxy.md)
