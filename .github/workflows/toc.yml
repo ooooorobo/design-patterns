@@ -2,7 +2,7 @@ name: table of contents maker
 on:
   push:
     branches:
-      - add-meta
+      - main
 jobs:
   make:
     runs-on: ubuntu-latest
