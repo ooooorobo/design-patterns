@@ -1,3 +1,9 @@
+---
+title: 팩토리메서드 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: creational
+---
 # 팩토리메서드 패턴
 
 팩토리메서드 패턴에 대해 정리해보았다.

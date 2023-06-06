@@ -1,3 +1,9 @@
+---
+title: Strategy 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: behavioral
+---
 # Strategy 패턴
 
 ## 개요

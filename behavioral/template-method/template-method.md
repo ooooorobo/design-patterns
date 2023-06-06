@@ -1,3 +1,9 @@
+---
+title: Template-method pattern
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: behavioral
+---
 # Template-method pattern
 
 ## 개요

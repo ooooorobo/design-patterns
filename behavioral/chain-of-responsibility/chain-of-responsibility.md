@@ -1,3 +1,9 @@
+---
+title: 책임 연쇄 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: behavioral
+---
 # 책임 연쇄 패턴
 
 ## 개요

@@ -1,3 +1,9 @@
+---
+title: 옵저버 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: behavioral
+---
 # 옵저버 패턴
 
 객체 간의 일대다 관계를 정의하는 패턴

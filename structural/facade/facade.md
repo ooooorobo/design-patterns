@@ -1,3 +1,9 @@
+---
+title: Facade 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: structural
+---
 # Facade 패턴
 
 Facade 패턴은 라이브러리에 대한, 프레임 워크에 대한 또는 다른 클래스들의 복잡한 집합에 대한 단순화된 인터페이스를 제공하는 구조적 디자인 패턴이다.

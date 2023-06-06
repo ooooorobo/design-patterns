@@ -1,3 +1,9 @@
+---
+title: 중재자 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: behavioral
+---
 # 중재자 패턴
 
 중재자(mediator) 패턴은 객체 간의 `혼란스러운 의존 관게들을 줄일 수 있는 디자인 패턴`이다.

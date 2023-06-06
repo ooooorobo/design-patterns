@@ -1,3 +1,9 @@
+---
+title: 프로토타입 패턴
+author: Yejin Cho
+date: Tue Jun 6 18:13:35 2023 +0900
+type: creational
+---
 # 프로토타입 패턴
 
 ## 요약
